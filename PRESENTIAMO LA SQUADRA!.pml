@@ -11,5 +11,7 @@
         <File name="SpegnimentoXP" src="behavior_1/SpegnimentoXP.mp3" />
     </Resources>
     <Topics />
-    <IgnoredPaths />
+    <IgnoredPaths>
+        <Path src="README.md" />
+    </IgnoredPaths>
 </Package>
