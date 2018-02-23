@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Package name="PRESENTIAMO LA SQUADRA!" format_version="4">
+<Package name="PresentazioneFINITISSIMA" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
@@ -11,7 +11,5 @@
         <File name="SpegnimentoXP" src="behavior_1/SpegnimentoXP.mp3" />
     </Resources>
     <Topics />
-    <IgnoredPaths>
-        <Path src="README.md" />
-    </IgnoredPaths>
+    <IgnoredPaths />
 </Package>
