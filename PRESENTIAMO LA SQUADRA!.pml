@@ -9,6 +9,7 @@
         <File name="Avvioxp" src="behavior_1/Avvioxp.mp3" />
         <File name="Errorexp" src="behavior_1/Errorexp.mp3" />
         <File name="SpegnimentoXP" src="behavior_1/SpegnimentoXP.mp3" />
+        <File name="Attivatore" src="behavior_1/Attivatore.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
