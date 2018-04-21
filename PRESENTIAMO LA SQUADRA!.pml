@@ -10,6 +10,7 @@
         <File name="Errorexp" src="behavior_1/Errorexp.mp3" />
         <File name="SpegnimentoXP" src="behavior_1/SpegnimentoXP.mp3" />
         <File name="Attivatore" src="behavior_1/Attivatore.mp3" />
+        <File name="README" src="README.md" />
     </Resources>
     <Topics />
     <IgnoredPaths />
