@@ -4,10 +4,11 @@
   <name lang="en_US">PresentazioneFINITISSIMA</name>
  </names>
  <supportedLanguages>
-  <language>en_US</language>
+  <language>it_IT</language>
  </supportedLanguages>
  <descriptionLanguages>
   <language>en_US</language>
+  <language>it_IT</language>
  </descriptionLanguages>
  <contents>
   <behaviorContent path="behavior_1">
